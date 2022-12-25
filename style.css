@@ -70,3 +70,17 @@ left: 950px;
 color:rgb(160, 167, 183);
 
 }
+
+.name {
+
+    top: 60px;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    font-Family: system-ui;
+    color: white;
+    display: block;
+    margin: auto;
+   
+
+}
